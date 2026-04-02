@@ -40,7 +40,7 @@
     }
 
     div.campo input {
-        transform: translateY(-12px);
+        transform: translateY(-11px);
     }
 
 }
@@ -82,6 +82,6 @@
     }
 
     div.campo input {
-        transform: translateY(-12px);
+        transform: translateY(-11px);
     }
 }
