@@ -87,7 +87,7 @@ div.campo input {
     border-radius: 10px;
     border: 0px;
     font-size: 0.9em;
-    transform: translateY(-14px);
+    transform: translateY(-12px);
 }
 
 div.campo input:focus-within {
